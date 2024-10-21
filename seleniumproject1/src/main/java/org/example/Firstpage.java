@@ -8,7 +8,7 @@ public class Firstpage
     @Test
     public void hello()
     {
-        System.out.println("hey");
+        System.out.println("heyuyyyy");
     }
 
 }
