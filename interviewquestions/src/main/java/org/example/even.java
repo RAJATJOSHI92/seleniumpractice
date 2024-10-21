@@ -11,7 +11,7 @@ public class even {
         int addd = 0;
         List<Integer> vivek = new ArrayList<>();
         vivek.add(2);
-        vivek.add(76);// changes done
+        vivek.add(768);// changes done
         vivek.add(5);
         System.out.println(vivek);
         for (rajat = 0; rajat < vivek.size(); rajat++) {
