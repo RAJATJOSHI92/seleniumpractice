@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/macbookpro/Desktop/crmframework/src">
+        <classes><class name="qa.testlayer.Contacttest">
+            <methods><include name="createcontact"/>
+            </methods></class><class name="qa.testlayer.Hometest">
+            <methods><include name="verifytitle"/>
+                <include name="verifyiconcontact"/>
+            </methods></class><class name="qa.testlayer.LandingTest">
+            <methods><include name="verifypagetitle"/>
+                <include name="verifyimg"/>
+                <include name="click"/>
+            </methods></class>
+            <class name="qa.testlayer.logintest">
+                <methods><include name="verifytitle"/>
+                    <include name="verifylogin"/></methods>
+            </class></classes>
+    </test>
+</suite>

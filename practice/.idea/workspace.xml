@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61ca4a00-71e5-4f19-8728-c6205ca544d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AllJavaTechnicalQAA 2/AllJavaTechnicalQAA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllJavaTechnicalQAA 3/AllJavaTechnicalQAA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllJavaTechnicalQAA/AllJavaTechnicalQAA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllJavaTechnicalQAA/src/AllJavaTQA/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/.idea/ansi-escape-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/src/test/java/Omeyo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/target/test-classes/Omeyo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OMAYO/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/src/test/java/Alert1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/src/test/java/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/ansi-escape-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/reporter/extent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/src/test/java/ParallelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/src/test/java/TestNg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/src/test/java/TestNg2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/src/test/java/dataprovider1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/src/test/java/dataproviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/src/test/java/extentreports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/src/test/java/parrameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/target/test-classes/ParallelTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/target/test-classes/TestNg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/target/test-classes/TestNg2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/target/test-classes/dataprovider1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/target/test-classes/dataproviders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/target/test-classes/extentreports.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/target/test-classes/parrameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bankingframework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/ansi-escape-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/pagelayer/ContactPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/pagelayer/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/pagelayer/Landingpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/pagelayer/loginpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/report/Report/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/report/Report/report1677464337571.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/report/Report/reportSECONDS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/report/Report/reportclass java.util.Random.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/java/qa/util/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/main/screenshot1677467053991.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/test/java/qa/testlayer/Contacttest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/test/java/qa/testlayer/Hometest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/test/java/qa/testlayer/LandingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/src/test/java/qa/testlayer/logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/classes/qa/pagelayer/ContactPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/classes/qa/pagelayer/Homepage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/classes/qa/pagelayer/Landingpage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/classes/qa/pagelayer/loginpage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/classes/qa/testbase/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/classes/qa/util/TestUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/test-classes/qa/testlayer/Hometest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/test-classes/qa/testlayer/LandingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/target/test-classes/qa/testlayer/logintest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmframework/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/.idea/ansi-escape-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/src/main/java/org/example/Basepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/src/main/java/org/example/Loginpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/src/main/java/org/example/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/src/test/java/org/test/Basetest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework/src/test/java/org/test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interview_que/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/ansi-escape-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/cout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/inheritence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/methodoverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/shanu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/statica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/statica1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/objectclasses/thisfun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/oops/program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/oops/program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/CalculateSumOfNumbersOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/abstarct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/arrayrev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/character_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/comparenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/comparestring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/digit_count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/evennumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/fabonnic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/genericc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/genericcmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/genericmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/genericwitharray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/lowerboundwildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/lst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/numberofworda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/palinndrone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgm9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prgrm7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/secondlargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/seconnd_largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/spaceremove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/stringrev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/whiteespaceremover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/whitespace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/wildcard11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/main/java/org/example/wildcardd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/test/java/overlaoding1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/src/test/java/overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/Constructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/cout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/derived.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/derived2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/inheritence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/methodoverloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/overriding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/statica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/statica1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/objectclasses/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/CalculateSumOfNumbersOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/armstrong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/arrayrev.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/comparenumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/comparestring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/evennumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/fabonnic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/numberofworda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/prime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/secondlargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/stringrev.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewquestions/target/classes/org/example/swap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ansi-escape-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_practice/python_practice.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nbqQDHj1hF9JdNwyQv3udyjY4U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61ca4a00-71e5-4f19-8728-c6205ca544d0" name="Changes" comment="" />
+      <created>1729252107634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729252107634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

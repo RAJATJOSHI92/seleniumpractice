@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T12:56:44 IST" name="All Test Suite" finished-at="2024-10-21T12:56:44 IST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2024-10-21T12:56:44 IST" name="/Users/macbookpro/Desktop/seleniumproject1/src/main/java/org/example" finished-at="2024-10-21T12:56:44 IST" duration-ms="49">
+      <class name="org.example.secondclass2">
+        <test-method signature="hgello()[pri:0, instance:org.example.secondclass2@16e7dcfd]" started-at="2024-10-21T12:56:44 IST" name="hgello" finished-at="2024-10-21T12:56:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hgello -->
+      </class> <!-- org.example.secondclass2 -->
+      <class name="org.example.Firstpage">
+        <test-method signature="hello()[pri:0, instance:org.example.Firstpage@223f3642]" started-at="2024-10-21T12:56:44 IST" name="hello" finished-at="2024-10-21T12:56:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+      </class> <!-- org.example.Firstpage -->
+    </test> <!-- /Users/macbookpro/Desktop/seleniumproject1/src/main/java/org/example -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
