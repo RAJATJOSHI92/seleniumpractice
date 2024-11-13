@@ -6,7 +6,7 @@ public class statica1 extends methodoverloading
     public statica1() {
         super();
         System.out.println("hello");
-        super.sum(10,20,30);
+       super.sum(10,20,30);
     }
     public statica1(int v1, int v2)
     {

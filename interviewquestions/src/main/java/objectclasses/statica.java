@@ -1,11 +1,15 @@
 package objectclasses;
 
 public class statica {
-   private static int a=20;
+    static int a=20;
 
-    public static void read()
+    public   static void read()
     {
         System.out.println(a);
     }
 
+    public static void main(String[] args)
+    {
+        statica.read();
+    }
 }
