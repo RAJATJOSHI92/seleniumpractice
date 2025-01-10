@@ -12,7 +12,8 @@ public class digit_count {
         int digit = sss.nextInt();
 
         String s = Integer.toString(number);
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++)
+        {
             char ss = s.charAt(i);
             int dd = Character.getNumericValue(ss);
 
@@ -28,6 +29,7 @@ public class digit_count {
 
 
         }
+
         System.out.println(digit + " Comes " + count + " Times");
     }
 

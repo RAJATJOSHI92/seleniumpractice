@@ -5,6 +5,7 @@ public class method_overridinng
     public  void sum(int a,int b)
     {
         System.out.println("addition of a and b from 1 "+(a+b));
+        
     }
 
 }
